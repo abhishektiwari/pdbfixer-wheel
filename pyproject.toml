@@ -34,3 +34,6 @@ dependencies = [
 "Homepage" = "https://github.com/abhishektiwari/pdbfixer-wheel"
 "Bug Tracker" = "https://github.com/abhishektiwari/pdbfixer-wheel/issues"
 
+[project.scripts]
+pdbfixer = "pdbfixer.pdbfixer:main"
+
