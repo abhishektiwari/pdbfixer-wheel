@@ -7,7 +7,13 @@
 
 PDBFixer Wheel
 ==============
-This is clone of [PDBFixer](https://github.com/openmm/pdbfixer) package released as `pdbfixer-wheel` on to PyPI.
+This is clone of [PDBFixer](https://github.com/openmm/pdbfixer) package released as [wheel](https://pypi.org/project/pdbfixer-wheel) on to PyPI.
+
+Install PDBFixeruse via PyPI using `pdbfixer-wheel`
+
+```
+pip install pdbfixer-wheel
+```
 
 PDBFixer
 ========
