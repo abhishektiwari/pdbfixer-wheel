@@ -1,8 +1,13 @@
-[![PDBFixer Continuous Integration Workflow](https://github.com/abhishektiwari/pdbfixer-wheel/actions/workflows/CI.yml/badge.svg)](https://github.com/abhishektiwari/pdbfixer-wheel/actions/workflows/CI.yml)
+[![PDBFixer CI Workflow](https://github.com/abhishektiwari/pdbfixer-wheel/actions/workflows/CI.yml/badge.svg)](https://github.com/abhishektiwari/pdbfixer-wheel/actions/workflows/CI.yml)
+![PyPI - Version](https://img.shields.io/pypi/v/pdbfixer-wheel)
+![Python Wheels](https://img.shields.io/pypi/wheel/pdbfixer-wheel)
+![Python Versions](https://img.shields.io/pypi/pyversions/pdbfixer-wheel?logo=python&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/abhishektiwari/pdbfixer-wheel)
+![PyPI - Status](https://img.shields.io/pypi/status/pdbfixer-wheel)
 
 PDBFixer Wheel
 ==============
-This is clone of popular [PDBFixer](https://github.com/openmm/pdbfixer) package to release to PyPI.
+This is clone of [PDBFixer](https://github.com/openmm/pdbfixer) package released as `pdbfixer-wheel` on to PyPI.
 
 PDBFixer
 ========
@@ -30,7 +35,7 @@ conda install -c conda-forge pdbfixer
 
 Alternatively you can install from source, as described in the manual.
 
-Or use using `pdbfixer-wheel`
+Or install PDBFixeruse via PyPI using `pdbfixer-wheel`
 
 ```
 pip install pdbfixer-wheel
