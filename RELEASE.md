@@ -4,10 +4,14 @@ This document describes how to release a new version of PDBFixer to PyPI and Git
 
 ## Prerequisites
 
-1. Update the version number in `setup.py`:
+1. Update the version number in `setup.py` and `pyproject.toml`:
    ```python
    __version__ = '1.11.0'  # Update this to your new version
    ```
+
+   ```toml
+  version = "1.11.0"       # Update this to your new version
+  ```
 
 2. Ensure `ISRELEASED = False` in `setup.py` (the workflow will automatically set it to `True` during the build)
 
