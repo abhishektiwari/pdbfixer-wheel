@@ -1,4 +1,8 @@
-[![PDBFixer Continuous Integration Workflow](https://github.com/openmm/pdbfixer/actions/workflows/CI.yml/badge.svg)](https://github.com/openmm/pdbfixer/actions/workflows/CI.yml)
+[![PDBFixer Continuous Integration Workflow](https://github.com/abhishektiwari/pdbfixer-wheel/actions/workflows/CI.yml/badge.svg)](https://github.com/abhishektiwari/pdbfixer-wheel/actions/workflows/CI.yml)
+
+PDBFixer Wheel
+==============
+This is clone of popular [PDBFixer](https://github.com/openmm/pdbfixer) package to release to PyPI.
 
 PDBFixer
 ========
@@ -14,7 +18,7 @@ PDBFixer is an easy to use application for fixing problems in Protein Data Bank 
 - Delete unwanted heterogens.
 - Build a water box for explicit solvent simulations.
 
-See our [manual](https://htmlpreview.github.io/?https://github.com/openmm/pdbfixer/blob/master/Manual.html)
+See our [manual](https://htmlpreview.github.io/?https://github.com/abhishektiwari/pdbfixer-wheel/blob/master/Manual.html)
 
 ## Installation
 
@@ -26,5 +30,8 @@ conda install -c conda-forge pdbfixer
 
 Alternatively you can install from source, as described in the manual.
 
-## PDBFixer Wheel
-This is clone of popular PDBFixer package to release to PyPI.
+Or use using `pdbfixer-wheel`
+
+```
+pip install pdbfixer-wheel
+```
