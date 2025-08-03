@@ -60,6 +60,9 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: ${{ github.event.inputs.pypi_target }}
+    permissions:
+      contents: read
+      id-token: write
     
     steps:
       - name: Download artifacts
