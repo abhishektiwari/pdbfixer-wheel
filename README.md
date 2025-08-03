@@ -25,3 +25,6 @@ conda install -c conda-forge pdbfixer
 ```
 
 Alternatively you can install from source, as described in the manual.
+
+## PDBFixer Wheel
+This is clone of popular PDBFixer package to release to PyPI.
