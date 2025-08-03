@@ -18,8 +18,8 @@ classifiers = [
         "Operating System :: OS Independent",
 ]
 dependencies = [
-    "numpy<2", 
-    "openmm >= 7.1"
+    "numpy", 
+    "openmm >= 8.2"
 ]
 [project.urls]
 "Homepage" = "https://github.com/abhishektiwari/pdbfixer-wheel"
