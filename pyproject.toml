@@ -42,3 +42,13 @@ where = ["."]
 include = ["pdbfixer*"]
 exclude = ["devtools*"]
 
+[tool.setuptools.package-data]
+pdbfixer = [
+    "html/*.html",
+    "images/*.png",
+    "images/*.jpg",
+    "templates/*.pdb",
+    "*.xml",
+    "tests/data/*.pdb"
+]
+
