@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pdbfixer-wheel"
-version = "1.12.0"
+version = "1.12.1"
 authors = [
   { name="Peter Eastman"},
   { name="Abhishek Tiwari"}
@@ -28,7 +28,7 @@ classifiers = [
 ]
 dependencies = [
     "numpy", 
-    "openmm >= 8.2"
+    "openmm >= 8.4.0"
 ]
 [project.urls]
 "Homepage" = "https://github.com/abhishektiwari/pdbfixer-wheel"
