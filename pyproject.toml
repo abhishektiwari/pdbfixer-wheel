@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pdbfixer-wheel"
-version = "1.12.3"
+version = "1.12.4"
 authors = [
   { name="Peter Eastman"},
   { name="Abhishek Tiwari"}
@@ -19,6 +19,10 @@ classifiers = [
         "Intended Audience :: Developers",
         "Programming Language :: Python",
         "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.10",
+        "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.12",
+        "Programming Language :: Python :: 3.13",
         "Topic :: Scientific/Engineering :: Bio-Informatics",
         "Topic :: Scientific/Engineering :: Chemistry",
         "Operating System :: Microsoft :: Windows",
