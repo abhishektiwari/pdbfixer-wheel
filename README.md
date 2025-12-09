@@ -41,7 +41,7 @@ conda install -c conda-forge pdbfixer
 
 Alternatively you can install from source, as described in the manual.
 
-Or install PDBFixeruse via PyPI using `pdbfixer-wheel`
+Or install PDBFixer via PyPI using `pdbfixer-wheel`
 
 ```
 pip install pdbfixer-wheel
