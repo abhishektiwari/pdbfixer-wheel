@@ -1,4 +1,4 @@
-[![PDBFixer CI Workflow](https://github.com/abhishektiwari/pdbfixer-wheel/actions/workflows/CI.yml/badge.svg)](https://github.com/abhishektiwari/pdbfixer-wheel/actions/workflows/CI.yml)
+[![PDBFixer CI Workflow](https://github.com/openmm/pdbfixer-wheel/actions/workflows/CI.yml/badge.svg)](https://github.com/abhishektiwari/pdbfixer-wheel/actions/workflows/CI.yml)
 ![PyPI - Version](https://img.shields.io/pypi/v/pdbfixer-wheel)
 ![Python Wheels](https://img.shields.io/pypi/wheel/pdbfixer-wheel)
 ![Python Versions](https://img.shields.io/pypi/pyversions/pdbfixer-wheel?logo=python&logoColor=white)
