@@ -4,6 +4,7 @@
 ![Python Versions](https://img.shields.io/pypi/pyversions/pdbfixer-wheel?logo=python&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/abhishektiwari/pdbfixer-wheel)
 ![PyPI - Status](https://img.shields.io/pypi/status/pdbfixer-wheel)
+![PyPI Total Downloads](https://img.shields.io/pepy/dt/pdbfixer-wheel)
 
 PDBFixer Wheel
 ==============
